@@ -1,5 +1,11 @@
 # Changelog
 
+## \[2.0.25]
+
+### Dependencies
+
+- Upgraded to `cli-js@2.3.0`
+
 ## \[2.0.24]
 
 ### Dependencies

@@ -1,5 +1,11 @@
 # Changelog
 
+## \[2.0.29]
+
+### Dependencies
+
+- Upgraded to `cli@2.3.0`
+
 ## \[2.0.28]
 
 ### Dependencies
